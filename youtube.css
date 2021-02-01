@@ -1,0 +1,131 @@
+
+#viewport{
+  min-height:100%;
+  position: relative;
+  width:100%
+}
+
+.container{
+width: 1024px;
+margin-left: auto;
+margin-right: auto;
+}
+
+i{
+  padding-left: 20px;
+}
+
+.toolbar{
+  background-color: white;
+  margin-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0; 
+  width: 100%;
+  position: fixed;
+}
+
+.left{
+float: left;
+
+}
+
+.right{
+
+float: right;
+margin-top: -35px;
+margin-right: 20px;
+
+}
+
+.fas{
+  
+  font-size: 14px;
+}
+
+.bar{
+  margin-left: 50px;
+  margin-right: 200px;
+  text-align: center;
+}
+ 
+
+ input[type=text]{
+  border: 1px solid rgb(221, 221, 221);
+  padding: 10px 250px;
+  
+}
+
+
+form .SB{
+  border: 1px solid rgb(221, 219, 219);
+  width: 80px;
+  padding: 10px; 
+  margin-left: -5px;
+  text-align: center;
+ 
+}
+
+form .StT{
+  border: none;
+  background-color: white;
+}
+
+.fas .fa-youtube{
+ color: red;
+}
+
+
+
+i{
+  font-size: 20px;
+}
+
+.right i{
+  font-size: 20px;
+  
+}
+
+
+
+.left i{
+  font-size:20px;
+}
+
+.SB i{
+  font-size: 14px;
+}
+
+.StT i{
+  font-size: 20px;
+  
+}
+
+.v_d{
+background-color: brown;
+width: 800px;
+height: 700px;
+margin-left: -165px;
+margin-top: 65px;
+float:left;
+}
+
+.n_r{
+  background-color: cadetblue;
+  width: 300px;
+  height: 1000px;
+  float:right;
+  margin-top: 65px;
+}
+
+.comments{
+  background-color: coral;
+  width: 800px;
+height: 1000px;
+margin-left: -165px;
+
+float:left;
+}
